@@ -26,7 +26,7 @@
         "secondaryLinks": [
             {
                 "type": "Link",
-                "label": "Sign in",
+                "label": "Sign inC",
                 "url": "/",
                 "altText": "Sign in",
                 "style": "link"
