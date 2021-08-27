@@ -27,7 +27,7 @@
                 "url": "#",
                 "altText": "lorem-ipsum",
                 "style": "link",
-                "icon": "cart",
+                "icon": "arrowRight",
                 "type": "Link"
             }
         ],
