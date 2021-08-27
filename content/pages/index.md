@@ -8,7 +8,7 @@ sections:
     width: wide
     height: auto
     alignHoriz: left
-    badge: New Website
+    badge: Product & Strategy
     title: Dan Barak
     text: >-
       A group of local fisherman, working to deliver sustainable fish to your
