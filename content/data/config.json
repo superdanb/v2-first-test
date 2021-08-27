@@ -21,6 +21,14 @@
                 "label": "Services",
                 "url": "/sample-page",
                 "altText": ""
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "altText": "lorem-ipsum",
+                "style": "link",
+                "icon": "arrowRight",
+                "type": "Link"
             }
         ],
         "secondaryLinks": []
