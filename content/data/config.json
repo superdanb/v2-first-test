@@ -3,7 +3,7 @@
         "desktopNavVariant": "variant-a",
         "mobileNavVariant": "variant-a",
         "primaryColors": "colors-a",
-        "secondaryColors": "colors-a",
+        "secondaryColors": "colors-b",
         "width": "wide",
         "title": "Eco Fish",
         "isTitleVisible": false,
