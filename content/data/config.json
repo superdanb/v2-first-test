@@ -23,15 +23,7 @@
                 "altText": ""
             }
         ],
-        "secondaryLinks": [
-            {
-                "type": "Link",
-                "label": "Sign inC",
-                "url": "/",
-                "altText": "Sign in",
-                "style": "link"
-            }
-        ]
+        "secondaryLinks": []
     },
     "footer": {
         "colors": "colors-d",
